@@ -74,10 +74,10 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayadeepbalaji&show_icons=true&locale=en" alt="jayadeepbalaji" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayadeepbalaji&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JayadeepBalaji&show_icons=true&locale=en" alt="Jayadeep Balaji" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JayadeepBalaji&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayadeepbalaji" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayadeepBalaji" alt="GitHub Streak"/>
 </p>
